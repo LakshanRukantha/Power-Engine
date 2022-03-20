@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: pink;
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+
+table.gsc-search-box {
+  padding-left: 40px;
+  padding-right: 40px;
+  display: inline-flexbox;
+  margin: 0 auto;
+  min-width: 350px;
+}
+
+form.gsc-search-box {
+  margin: 0 auto;
+}
